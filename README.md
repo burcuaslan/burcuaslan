@@ -1,4 +1,4 @@
-![tenor (5)](https://user-images.githubusercontent.com/64483622/126667594-7fbd383c-8700-429f-af7d-948672f9fd04.gif)
+<p>![tenor (5)](https://user-images.githubusercontent.com/64483622/126667594-7fbd383c-8700-429f-af7d-948672f9fd04.gif)<br>
 ### Hi there 👋
 
 <!--
