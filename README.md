@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-## Github Stats
+# Github Stats
 </div>
 
 ## Github Stats
-<div style="color: red; text-align: center;">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=burcuaslan&show_icons=true&theme=radical">
 </div>
 
