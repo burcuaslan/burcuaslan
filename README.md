@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="[![Burcu's GitHub stats](https://github-readme-stats.vercel.app/api?username=burcuaslan)](https://github.com/burcuaslan/github-readme-stats)">
+<img src=[![Burcu's GitHub stats](https://github-readme-stats.vercel.app/api?username=burcuaslan)](https://github.com/burcuaslan/github-readme-stats)>
 </div>
 
 <!--
