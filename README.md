@@ -9,7 +9,7 @@
 </div>
 
 ## Github Stats
-<div align="center">
+<div style="color: red; text-align: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=burcuaslan&show_icons=true&theme=radical">
 </div>
 
