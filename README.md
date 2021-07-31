@@ -1,6 +1,6 @@
 <div align="center">
 <p>Hi, welcome to my github!</p>
-<img src="https://user-images.githubusercontent.com/64483622/127747328-32b204c0-9fc7-422c-99bd-435dfaa4f61a.gif" >
+<img src="https://tenor.com/view/baby-kid-attitude-annoyed-irritated-gif-4513005" >
 </div>
 
 
