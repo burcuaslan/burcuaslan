@@ -4,6 +4,8 @@
 </div>
 
 [![Burcu's GitHub stats](https://github-readme-stats.vercel.app/api?username=burcuaslan)](https://github.com/burcuaslan/github-readme-stats)
+![Burcu's GitHub stats](https://github-readme-stats.vercel.app/api?username=burcuaslan&show_icons=true&theme=radical)
+
 
 
 <!--
