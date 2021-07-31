@@ -1,8 +1,7 @@
 
-### Hi there 👋
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
+
 ![tenor (16)](https://user-images.githubusercontent.com/64483622/127747328-32b204c0-9fc7-422c-99bd-435dfaa4f61a.gif)
-</div>
+
 
 <!--
 **burcuaslan/burcuaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
