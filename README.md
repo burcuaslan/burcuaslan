@@ -1,5 +1,5 @@
 <div align="center">
-<p>Hi, welcome to my github!</p>
+<p>Hi, welcome to my github!:hibiscus: :mending_heart: :purple_heart:</p>
 <img src="https://user-images.githubusercontent.com/64483622/127747794-cc4e58b1-1d4c-4d48-afb2-664a4b95c6cd.gif">
 </div>
 
