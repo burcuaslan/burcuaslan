@@ -2,6 +2,7 @@
 <p>Hi, welcome to my github page!🤍</p>
 <img src="https://user-images.githubusercontent.com/64483622/127747794-cc4e58b1-1d4c-4d48-afb2-664a4b95c6cd.gif">
 </div>
+
 [![Burcu's GitHub stats](https://github-readme-stats.vercel.app/api?username=burcuaslan)](https://github.com/burcuaslan/github-readme-stats)
 
 
