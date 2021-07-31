@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-# Github Stats
+<p># Github Stats</p>
 </div>
 
 ## Github Stats
